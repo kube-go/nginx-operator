@@ -1,0 +1,6 @@
+domain: example.com
+layout:
+- go.kubebuilder.io/v3
+projectName: nginx-operator
+repo: github.com/kube-go/nginx-operator
+version: "3"
